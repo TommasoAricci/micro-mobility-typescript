@@ -18,8 +18,6 @@ These instances interact with each other, allowing users to book transports and 
 
 Clone the code and start creating instances from classes. They are located in the src folder.
 
-You can create users with their own information, choose the cities where the service is available, and add new types of transport.
-
-Then, you can use the methods provided to book transports and manage their movement within the cities you selected.
+You can create users with their own information, choose the cities where the service is available, and add new types of transport. Then, you can use the methods provided to book transports and manage their movement within the cities you selected.
 
 The instances you create can be used throughout the code as variables to build a functional application.
